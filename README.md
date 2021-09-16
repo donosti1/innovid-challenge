@@ -32,3 +32,9 @@ npm start
 
 ## Modalidad de entrega
 * Repositorio público subido a GitHub, Gitlab, Bitbucket.
+
+## Contacto
+
+Twitch: donosti1
+Discord: donosti
+Contacto: https://www.linkedin.com/in/sebastian-dorazio/
