@@ -1,0 +1,21 @@
+.windowBody {
+  height: 300px;
+}
+
+.statusBar {
+  display: flex;
+
+  span {
+    width: 100%
+  }
+}
+
+.statusButton {
+  cursor: pointer;
+  color: blue;
+}
+
+.picture {
+  height: 160px;
+  width: 160px;
+}

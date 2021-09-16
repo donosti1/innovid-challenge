@@ -2,4 +2,8 @@
 .container {
   width: 100%;
   max-width: 1024px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+  
 }
